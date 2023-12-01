@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+I'm Zhoucai, currently a senior studying Computer Science with a minor in Earth Science at Dartmouth College.
+
+- 🌱 I’m currently learning how to use Lua
+- 📫 How to reach me: zhoucai.ni.24@dartmouth.edu
 <!--
 **Zucchini-byte/Zucchini-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
